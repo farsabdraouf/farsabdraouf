@@ -47,6 +47,8 @@ I have one year of experience in programming in general and developing front-end
 <p align="left">
                           
 <a href="https://www.github.com/farsabdraouf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/fars-abdraouf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
                       
 <div align = "center">                      
                       

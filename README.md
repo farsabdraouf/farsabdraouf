@@ -54,7 +54,7 @@ I have one year of experience in programming in general and developing front-end
                   
 <p align="left">
                           
-<a href="https://ko-fi.com/farsabdraouf" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UiCfDyaTjRi7&format=png&color=000000" width="50" height="50" /></a></p>
+<a href="https://ko-fi.com/farsabdraouf" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=0raKEPapZlbM&format=png&color=000000" width="50" height="50" /></a></p>
 
 
                       
